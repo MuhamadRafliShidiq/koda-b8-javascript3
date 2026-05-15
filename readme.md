@@ -2,7 +2,7 @@
 
 ## Menjelaskan cara kerja program nya
 
-1. Membuat Objek Lingkaran yang isinya property luas, keliling dan hitung
+1. Membuat variabel objek Lingkaran yang isinya property luas, keliling dan hitung
 2. Untuk property luas dan keliling saya buatkan anonymues function yang isi nya mengembalikan nilai rumus luas dan keliling lingkaran dengan menggunakan parameter phi dan r.
 3. Property hitung saya buatkan juga anonymus function dengan parameter r, yang didalam nya prosesnya dimulai dengan mengecek type data terlebih dahulu dari nilai r nya
 4. Saya panggil method keliling dan luas lingkaran yang sudah dibuat didalam objek lingkaran
