@@ -18,8 +18,6 @@ const lingkaran = {
         } else {
             phi = 3.14;
         }
-        this.keliling();
-        this.luas();
         console.log("Luas Lingkaran = " + this.luas(phi, r));
         console.log("Keliling Lingkaran = " + this.keliling(phi, r));
     }
